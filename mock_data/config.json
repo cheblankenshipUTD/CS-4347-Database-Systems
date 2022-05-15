@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "name": "Library Database",
+    "dbName": "DB_Project",
+    "host": "127.0.0.1",
+    "username": "root",
+    "password": "grandmava",
+    "port": 3306
+}
