@@ -1,11 +1,18 @@
-# CS-4347-Database-Systems
+# CS4347 Database Systems Group Project
 
-UT Dalls CS4347 Database Systems Group Project 
+UT Dallas CS4347 Database Systems Group Project
 
 ###### Environment
 - MySQL 8.0.28-arm64
-- Sequel Ace
-- macOS 12
+- Sequel Ace (GUI)
+- macOS 12 (OS)
+
+###### What I Learned
+- MySQL
+- Design the database in conceptual data model and implement the actual database
+- Convert relational algebra into SQL queries
+- CURD the database using basic & advanced query techniques
+
 
 ## Project Description
 Wonder Library is a library for all ages. Wonder Library would like one relational database to be able to smoothly carry out their work in an organized way. The library has following important modules: Person, Employee, Member, Books, Publishers, Authors and Payment.
@@ -28,4 +35,3 @@ A receptionist maintains records of borrow details. Borrowing details are stored
 
 ## Dependency Diagram
 ![dependency diagram](https://raw.githubusercontent.com/cheblankenshipUTD/CS-4347-Database-Systems/main/img/dependency-diagram.png)
-
